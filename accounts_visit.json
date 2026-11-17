@@ -1,75 +1,42 @@
 [
   {
-    "uid": 4730884953,
-    "password": "SGSFGFLKS4ST4RGMRL0V3LQIFY",
-    "account_id": "15438061244",
-    "name": "SG_LIKE³²⁵²²",
+    "uid": 4752918438,
+    "password": "S_BYSTARGMR_Ei3eV5Fb",
+    "account_id": "15522462758",
+    "name": "SG_LIKE⁴²⁵²",
     "region": "IND",
-    "date_created": "2026-04-18 18:41:05",
-    "thread_id": 18
-  },
-  {
-    "uid": 4730884958,
-    "password": "SGSFGFLKS4ST4RGMRL0V30DLAU",
-    "account_id": "15438061248",
-    "name": "SG_LIKE³¹⁸⁰²",
-    "region": "IND",
-    "date_created": "2026-04-18 18:41:06",
-    "thread_id": 26
-  },
-  {
-    "uid": 4730884957,
-    "password": "SGSFGFLKS4ST4RGMRL0V38UQJL",
-    "account_id": "15438061274",
-    "name": "SG_LIKE⁷²⁵¹³",
-    "region": "IND",
-    "date_created": "2026-04-18 18:41:06",
-    "thread_id": 27
-  },
-  {
-    "uid": 4730884934,
-    "password": "SGSFGFLKS4ST4RGMRL0V3SAA9F",
-    "account_id": "15438061272",
-    "name": "SG_LIKE⁹¹⁷⁰⁶",
-    "region": "IND",
-    "date_created": "2026-04-18 18:41:06",
-    "thread_id": 20
-  },
-  {
-    "uid": 4730884946,
-    "password": "SGSFGFLKS4ST4RGMRL0V3BBH02",
-    "account_id": "15438061257",
-    "name": "SG_LIKE³⁰³⁸¹",
-    "region": "IND",
-    "date_created": "2026-04-18 18:41:06",
+    "date_created": "2026-04-27 08:12:06",
     "thread_id": 2
+  }, 
+  {
+    "uid": "7510203802",
+    "password": "STARRR_STAR_SEKR",
+    "name": "STARGV⁷⁵⁶⁸",
+    "account_id": "17829969826",
+    "region": "IND",
+    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
+    "created_at": "2026-09-05T16:18:09.933315",
+    "thread_id": "8"
   },
   {
-    "uid": 4730887927,
-    "password": "SGSFGFLKS4ST4RGMRL0V3U7OTI",
-    "account_id": "15438070032",
-    "name": "SG_LIKE⁸⁰³⁷²",
+    "uid": "7510203766",
+    "password": "STARRR_STAR_ICKL",
+    "name": "STARGV⁴¹²¹",
+    "account_id": "17829969827",
     "region": "IND",
-    "date_created": "2026-04-18 18:42:02",
-    "thread_id": 26
+    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
+    "created_at": "2026-09-05T16:18:09.955005",
+    "thread_id": "2"
   },
   {
-    "uid": 4730887926,
-    "password": "SGSFGFLKS4ST4RGMRL0V3YMMUL",
-    "account_id": "15438070033",
-    "name": "SG_LIKE⁵⁶⁰⁵⁹",
+    "uid": "7510204102",
+    "password": "STARRR_STAR_NSJG",
+    "name": "STARGV¹²⁴⁵",
+    "account_id": "17829969944",
     "region": "IND",
-    "date_created": "2026-04-18 18:42:02",
-    "thread_id": 27
-  },
-  {
-    "uid": 4730887931,
-    "password": "SGSFGFLKS4ST4RGMRL0V3LD6S6",
-    "account_id": "15438070231",
-    "name": "SG_LIKE⁹⁷³⁷⁴",
-    "region": "IND",
-    "date_created": "2026-04-18 18:42:04",
-    "thread_id": 15
+    "jwt_token": "eyJhbGciOiJIUzI1NiIs...",
+    "created_at": "2026-09-05T16:18:10.132548",
+    "thread_id": "7"
   },
   {
     "uid": "4652831470",
